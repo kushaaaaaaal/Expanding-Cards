@@ -19,7 +19,10 @@ Interactive **Expanding Cards** web app showcasing 5 Triumph bike images. Each c
    git clone https://github.com/kushaaaaaaal/Expanding-Cards.git
     
 
----
+---## Live Demo
+
+You can view a live version of this project here: [Expanding Cards Live Demo](https://kushaaaaaaal.github.io/Expanding-Cards)
+
 
 ### **Next Steps**
 1. Save the file.  
